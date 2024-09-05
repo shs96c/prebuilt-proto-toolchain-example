@@ -1,0 +1,4 @@
+java_proto_library(
+    name = "foo_java_proto",
+    deps = ["//proto:foo_proto"],
+)
